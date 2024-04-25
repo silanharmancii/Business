@@ -1,0 +1,43 @@
+.navbar{
+    background-color: #e9a89b;
+    color: white;    
+}
+
+div[class*="navbar"]{
+
+    background-color: #e9a89b !important;    
+    color: #fff !important;
+}
+#navbarText{
+    color: white;
+}
+
+.slider{
+    background-color: #e9a89b;
+}
+.btn-light{
+    color: #e9a89b;
+}
+
+.feature{
+    background-color: #ed8873;
+    width: 10%;
+    padding: 0.25rem;
+    justify-content: center;
+    text-align: center;
+}
+.third-section{
+    background-color: #e9a89b ;
+    opacity: 0.5;
+}
+.card-img-top{
+    height: 350;
+    width: 600;
+    object-fit: cover !important;
+}
+.bg-gradient {
+    background-color: #ed8873;
+}
+.bg-gray{
+    background-color: #e9a89b;
+}
